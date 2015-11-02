@@ -1,0 +1,22 @@
+{
+  "name": "living-module-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balbonits/living-module-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balbonits/living-module-generator/issues"
+  },
+  "homepage": "https://github.com/balbonits/living-module-generator#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
